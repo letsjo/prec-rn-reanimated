@@ -1,6 +1,6 @@
 import { StyleSheet } from 'react-native'
 import Animated, { useAnimatedScrollHandler, useSharedValue } from 'react-native-reanimated';
-import Page from './scrollView/Page';
+import Page from './components/Page';
 
 const WORDS = ["What's", 'up', 'mobile', 'devs?']
 
