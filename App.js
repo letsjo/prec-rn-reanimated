@@ -5,6 +5,6 @@ import TestInterpolateColor from './04 InterpolateColor/TestInterpolateColor';
 
 export default function App() {
   return (
-    <TestScrollView />
+    <TestInterpolateColor />
   );
 }
