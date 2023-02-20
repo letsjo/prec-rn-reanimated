@@ -26,3 +26,9 @@
 <br/>
 
 ![ScrollView](https://velog.velcdn.com/images/gusdh2/post/fe0319f8-d095-40b4-8d93-061c7a812110/image.gif)
+
+## **📌 Chapter 4. Interpolate Color**
+
+[Interpolate Colors like a pro](./03%20scrollView/README.md) <br/>
+
+![InterpolateColor](https://velog.velcdn.com/images/gusdh2/post/103b4288-71d1-4390-9898-61f6cd5610ff/image.gif)
