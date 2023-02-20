@@ -29,6 +29,7 @@
 
 ## **📌 Chapter 4. Interpolate Color**
 
-[Interpolate Colors like a pro](./03%20scrollView/README.md) <br/>
+[Interpolate Colors like a pro](./04%20InterpolateColor/README.md)
+<br/>
 
 ![InterpolateColor](https://velog.velcdn.com/images/gusdh2/post/103b4288-71d1-4390-9898-61f6cd5610ff/image.gif)
