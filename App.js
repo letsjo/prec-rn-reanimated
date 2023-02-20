@@ -4,6 +4,6 @@ import TestReanimated from './01 reanimated/TestReanimated';
 
 export default function App() {
   return (
-    <TestReanimated />
+    <TestPanGestureHandler />
   );
 }
