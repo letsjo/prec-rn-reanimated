@@ -29,7 +29,7 @@
 
 - PinchGestureHandler
 
-  ![PinchGestureHandler](https://velog.velcdn.com/images/gusdh2/post/8fbd7837-e62d-4872-a4ff-2c6aa6f66407/image.gif)
+  ![](https://velog.velcdn.com/images/gusdh2/post/8fbd7837-e62d-4872-a4ff-2c6aa6f66407/image.gif)
 
   ```js
   // pinch 제스쳐 이벤트 발생 시키는 태그

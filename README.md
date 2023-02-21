@@ -39,4 +39,4 @@
 [The basics of PinchGestureHandler](./05%20PinchGestureHandler/README.md)
 <br/>
 
-![PinchGestureHandler](https://velog.velcdn.com/images/gusdh2/post/8fbd7837-e62d-4872-a4ff-2c6aa6f66407/image.gif)
+![](https://velog.velcdn.com/images/gusdh2/post/8fbd7837-e62d-4872-a4ff-2c6aa6f66407/image.gif)
