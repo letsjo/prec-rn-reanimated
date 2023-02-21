@@ -4,7 +4,7 @@
 
 <br/>
 
-![PinchGestureHandler](https://velog.velcdn.com/images/gusdh2/post/7f9059b7-f24f-4549-9397-d88ab94354da/image.gif)
+![](https://velog.velcdn.com/images/gusdh2/post/6d9a06e3-680d-47f6-a6d7-269402df5280/image.gif)
 
 ---
 
@@ -29,7 +29,7 @@
 
 - PinchGestureHandler
 
-  ![](https://velog.velcdn.com/images/gusdh2/post/1826545e-18b5-4ed4-92ea-bfdf6794227b/image.gif)
+  ![](https://velog.velcdn.com/images/gusdh2/post/3ff8cfae-b092-4074-9728-321fe4b9958e/image.png)
 
   ```js
   // pinch 제스쳐 이벤트 발생 시키는 태그
